@@ -138,6 +138,7 @@ export async function editExpense(req, res, id) {
             message: 'Expense not found'
         });
     }
+    
 
     if (
         !req.body ||
