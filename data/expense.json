@@ -1,0 +1,95 @@
+[
+  {
+    "id": "4908c8c7-8f59-49d0-8e78-2567fb0fa0c3",
+    "title": "Lunch",
+    "amount": 1800,
+    "category": "Food",
+    "paymentMethod": "Card",
+    "date": "2026-11-12",
+    "note": "biriyani",
+    "createdAt": "2026-11-12T12:16:01.529Z",
+    "updatedAt": "2026-11-13T06:57:31.355Z"
+  },
+  {
+    "id": "94460bdc-aa0f-4724-9a3f-a1850304a2e7",
+    "title": "shopping",
+    "amount": 1800,
+    "category": "cloth",
+    "paymentMethod": "Cash",
+    "date": "2026-11-12",
+    "note": "churidar meterials",
+    "createdAt": "2026-11-12T17:47:08.387Z",
+    "updatedAt": "2026-11-16T02:22:20.350Z"
+  },
+  {
+    "id": "69d8ea27-b979-4e61-ba52-e041ecc932ae",
+    "title": "Laptop",
+    "amount": 45000,
+    "category": "Electronics",
+    "paymentMethod": "Card",
+    "date": "2026-11-13",
+    "note": "electronic item",
+    "createdAt": "2026-11-13T05:16:49.610Z",
+    "updatedAt": "2026-11-13T10:16:27.119Z"
+  },
+  {
+    "id": "97c2b24d-d752-4a3d-9403-b9bb8315f9ba",
+    "title": "Food",
+    "amount": 250,
+    "category": "food",
+    "paymentMethod": "UPI",
+    "date": "2026-11-10",
+    "note": "Lunch",
+    "createdAt": "2026-11-14T09:12:51.539Z"
+  },
+  {
+    "id": "43abbb9a-b75a-4d45-9171-b639b87d1c06",
+    "title": "Travel",
+    "amount": 500,
+    "category": "travel",
+    "paymentMethod": "Cash",
+    "date": "2026-11-11",
+    "note": "Bus ticket",
+    "createdAt": "2026-11-14T09:12:51.553Z"
+  },
+  {
+    "id": "f65bc953-33d6-4727-a63c-0d5d2894236f",
+    "title": "Shopping",
+    "amount": 1000,
+    "category": "shopping",
+    "paymentMethod": "Card",
+    "date": "2026-11-12",
+    "note": "Clothes",
+    "createdAt": "2026-11-14T09:12:51.557Z"
+  },
+  {
+    "id": "15f996ee-98a9-40e2-9f23-a3e1971e48b8",
+    "title": "Flight Ticket",
+    "amount": 8500,
+    "category": "travel",
+    "paymentMethod": "UPI",
+    "date": "2026-11-10",
+    "note": "Flight to Goa",
+    "createdAt": "2026-11-14T09:43:08.624Z"
+  },
+  {
+    "id": "447d7493-ec1e-42ee-b2d5-0bb5c1fcf7aa",
+    "title": "Flight Ticket",
+    "amount": 8500,
+    "category": "travel",
+    "paymentMethod": "upi",
+    "date": "2026-11-10",
+    "note": "Flight to Goa",
+    "createdAt": "2026-11-14T15:41:57.220Z"
+  },
+  {
+    "id": "ea867d94-7ab6-4fe6-b161-49efe083591c",
+    "title": "Lunch",
+    "amount": 150,
+    "category": "food",
+    "paymentMethod": "cash",
+    "date": "2026-11-13",
+    "note": "Lunch with friends",
+    "createdAt": "2026-11-14T17:29:45.620Z"
+  }
+]
